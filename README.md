@@ -13,29 +13,43 @@ I am a technology-passionate developer, originally from Santiago de Cali, Colomb
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-### 🚀 Lo que hago
-- **Desarrollo Web**: Construyo aplicaciones robustas con Laravel (PHP) para el backend.
-- **Microservicios**: Diseño APIs eficientes y escalables usando FastAPI (Python).
-- **IA y Machine Learning**: Integro modelos de IA en aplicaciones web y microservicios, optimizando procesos de negocio como predicciones, recomendaciones y automatización.
-- **Enfoque**: Siempre busco equilibrar la innovación tecnológica con la usabilidad y el rendimiento.
+- **Web Development**: I build robust applications with Laravel (PHP) for the backend.
+- **Microservices**: I design efficient and scalable APIs using FastAPI (Python).
+- **AI and Machine Learning**: I integrate AI models into web applications and microservices, optimizing business processes such as predictions, recommendations, and automation.
+- **Focus**: I always seek to balance technological innovation with usability and performance.
 
-### 🛠️ Tecnologías y Herramientas
-- **Lenguajes**: Python, PHP, MySQL
+### 🛠️ Softwares and Tools
+- **Languages**: Python, PHP, MySQL
 - **Frameworks**: Laravel, FastAPI
-- **IA/ML**: TensorFlow, Scikit-learn, Pandas, Hugging Face, Vertex, OpenAI
-- **Bases de Datos**: MySQL
-- **Herramientas**: Docker, Git
-- **Otros**: RESTful APIs, CI/CD
+- **AI/ML**: TensorFlow, Scikit-learn, Pandas, Hugging Face, Vertex, OpenAI
+- **Databases**: MySQL
+- **Tools**: Docker, Git
+- **Others**: RESTful APIs, CI/CD
 
-### 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=duberney-londono-restrepo&show_icons=true&theme=radical&locale=es)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=duberney-londono-restrepo&layout=compact&theme=radical&locale=es)
+### 📊 Github Stats
+![Github Stats](https://github-readme-stats.vercel.app/api?username=duberney-londono-restrepo&show_icons=true&theme=radical&locale=es)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=duberney-londono-restrepo&layout=compact&theme=radical&locale=es)
 
-### 📫 Conectemos
-- **LinkedIn**: [Tu LinkedIn](https://www.linkedin.com/in/duberney-londo%C3%B1o-restrepo-9028b71bb/) (reemplaza con tu enlace real)
+### 📫 Let's Connect..!
+- **LinkedIn**: [Duberney Londoño](https://www.linkedin.com/in/duberney-londo%C3%B1o-restrepo-9028b71bb/)
 
-¡Siempre estoy abierto a colaboraciones en proyectos de IA y desarrollo web! 😊
+I'm always open to collaborations on AI and web development projects! 😊
 
 ---
 
-⭐
+### Operating Systems
+ 
+<p align="center">
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/macOS-%2348B9C7.svg?style=plastic&&logo=mac!_os&logoColor=white" /></a>
+</p>
+
+<br> 
+
+---
