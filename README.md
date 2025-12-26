@@ -1,8 +1,17 @@
-# 👋 Hola, soy Duberney Londoño Restrepo
+<p align="center">
+<img src="https://img.shields.io/badge/Age-40-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Santiago%20de%20Cali-success" />
+  <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen" />
+</p>
 
-### Desarrollador Back-end | Especialista en Integración de IA y Machine Learning
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Duberney Londoño Restrepo </h1>
+<h3 align="center">Machine Learning Engineer | Backend Development </h3>
 
-Soy un desarrollador apasionado por la tecnología, originario de Santiago de Cali, Colombia 🇨🇴. Me especializo en el desarrollo de aplicaciones web con **Laravel** y microservicios con **FastAPI**, con un enfoque principal en la integración de modelos de Machine Learning e IA en la lógica de negocio. Creo soluciones innovadoras que combinan el poder de la IA con aplicaciones escalables y eficientes.
+I am a technology-passionate developer, originally from Santiago de Cali, Colombia 🇨🇴. I specialize in developing web applications with Laravel and microservices with FastAPI, with a primary focus on integrating Machine Learning and AI models into business logic. I create innovative solutions that combine the power of AI with scalable and efficient applications.
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 ### 🚀 Lo que hago
 - **Desarrollo Web**: Construyo aplicaciones robustas con Laravel (PHP) para el backend.
