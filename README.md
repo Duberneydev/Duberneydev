@@ -47,18 +47,10 @@ I'm always open to collaborations on AI and web development projects! 😊
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/macOS-%2348B9C7.svg?style=plastic&&logo=mac!_os&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/macOS-2348B9C7?style=plastic&logo=mac&logoColor=white"></a>
 </p>
 
 <br> 
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Duberneydev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Duberneydev&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
